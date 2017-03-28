@@ -1,0 +1,471 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SakuraResturant
+</name>
+</assembly>
+<members>
+<member name="T:SakuraResturant.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:SakuraResturant.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:SakuraResturant.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:SakuraResturant.My.Resources.Resources.common_dinning_area">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SakuraResturant.My.Resources.Resources.CustomerLogin_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SakuraResturant.My.Resources.Resources.CustomerLogin_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SakuraResturant.My.Resources.Resources.DineInArea1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SakuraResturant.My.Resources.Resources.DineInArea2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SakuraResturant.My.Resources.Resources.DineInArea3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SakuraResturant.My.Resources.Resources.DineInArea4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SakuraResturant.My.Resources.Resources.front_desk_and_bar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SakuraResturant.My.Resources.Resources.Front_view">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SakuraResturant.My.Resources.Resources.Hibachi_area">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SakuraResturant.My.Resources.Resources.Hibachi_area_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SakuraResturant.My.Resources.Resources.Hibachi_Area_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SakuraResturant.My.Resources.Resources.Hibachi_Area_4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SakuraResturant.My.Resources.Resources.Hibachi_Area_5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SakuraResturant.My.Resources.Resources.Major_Credit_Card_Logo_PNG_File">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SakuraResturant.My.Resources.Resources.sakura_food_photo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SakuraResturant.My.Resources.Resources.Sakura_Image">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SakuraResturant.My.Resources.Resources.Sakura_logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SakuraResturant.My.Resources.Resources.Sakura_logo1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SakuraResturant.My.Resources.Resources.sushi_area">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SakuraResturant.My.Resources.Resources.Sushi_plat_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SakuraResturant.My.Resources.Resources.sushi_plate">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SakuraResturant.My.Resources.Resources.sushi_plate_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SakuraResturant.My.Resources.Resources.sushi_plate1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:SakuraResturant.CityDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SakuraResturant.CityDataSet.CityDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SakuraResturant.CityDataSet.CityRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SakuraResturant.CityDataSet.CityRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SakuraResturant.CityDataSetTableAdapters.CityTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SakuraResturant.CityDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:SakuraResturant.CityDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SakuraResturant.CityDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:SakuraResturant.CityDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SakuraResturant.CityDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:SakuraResturant.CityDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SakuraResturant.CityDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:SakuraResturant.CityDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:SakuraResturant.CityDataSetTableAdapters.TableAdapterManager.UpdateAll(SakuraResturant.CityDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:SakuraResturant.CityDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:SakuraResturant.CityDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:SakuraResturant.CustReserveDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SakuraResturant.CustReserveDataSet.CustReserveDataTableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SakuraResturant.CustReserveDataSet.CustReserveDataTableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SakuraResturant.CustReserveDataSet.CustReserveDataTableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SakuraResturant.CustReserveDataSetTableAdapters.CustReserveDataTableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SakuraResturant.CustReserveDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:SakuraResturant.CustReserveDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SakuraResturant.CustReserveDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:SakuraResturant.CustReserveDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SakuraResturant.CustReserveDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:SakuraResturant.CustReserveDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SakuraResturant.CustReserveDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:SakuraResturant.CustReserveDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:SakuraResturant.CustReserveDataSetTableAdapters.TableAdapterManager.UpdateAll(SakuraResturant.CustReserveDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:SakuraResturant.CustReserveDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:SakuraResturant.CustReserveDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:SakuraResturant.EmployeeDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SakuraResturant.EmployeeDataSet.EmployeeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SakuraResturant.EmployeeDataSet.EmployeeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SakuraResturant.EmployeeDataSet.EmployeeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SakuraResturant.EmployeeDataSetTableAdapters.EmployeeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SakuraResturant.EmployeeDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:SakuraResturant.EmployeeDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SakuraResturant.EmployeeDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:SakuraResturant.EmployeeDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SakuraResturant.EmployeeDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:SakuraResturant.EmployeeDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SakuraResturant.EmployeeDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:SakuraResturant.EmployeeDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:SakuraResturant.EmployeeDataSetTableAdapters.TableAdapterManager.UpdateAll(SakuraResturant.EmployeeDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:SakuraResturant.EmployeeDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:SakuraResturant.EmployeeDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:SakuraResturant.PeakTimeDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SakuraResturant.PeakTimeDataSet.reservationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SakuraResturant.PeakTimeDataSet.reservationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SakuraResturant.PeakTimeDataSet.reservationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SakuraResturant.PeakTimeDataSetTableAdapters.reservationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SakuraResturant.PeakTimeDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:SakuraResturant.PeakTimeDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SakuraResturant.PeakTimeDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:SakuraResturant.PeakTimeDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SakuraResturant.PeakTimeDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:SakuraResturant.PeakTimeDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SakuraResturant.PeakTimeDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:SakuraResturant.PeakTimeDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:SakuraResturant.PeakTimeDataSetTableAdapters.TableAdapterManager.UpdateAll(SakuraResturant.PeakTimeDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:SakuraResturant.PeakTimeDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:SakuraResturant.PeakTimeDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:SakuraResturant.SectionDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SakuraResturant.SectionDataSet.SectionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SakuraResturant.SectionDataSet.SectionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SakuraResturant.SectionDataSet.SectionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SakuraResturant.SectionDataSetTableAdapters.SectionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SakuraResturant.SectionDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:SakuraResturant.SectionDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SakuraResturant.SectionDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:SakuraResturant.SectionDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SakuraResturant.SectionDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:SakuraResturant.SectionDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SakuraResturant.SectionDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:SakuraResturant.SectionDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:SakuraResturant.SectionDataSetTableAdapters.TableAdapterManager.UpdateAll(SakuraResturant.SectionDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:SakuraResturant.SectionDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:SakuraResturant.SectionDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
